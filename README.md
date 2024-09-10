@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on **Instagram Clone**
 
-- 👨‍💻 All of my projects are available at <a style="text-decoration:none; color:black" href="https://owais-nawab.vercel.app/" target="_blank" >Portfolio</a>
+- 👨‍💻 All of my projects are available at <a style="text-decoration:none; color:black;" target="_blank" href="https://owais-nawab.vercel.app/">Portfolio</a>
 
 - 💬 Ask me about **anything. I am happy to help:**
 
 - 📫 How to reach me **khan6awais@gmail.com**
 
-- 📄 Know about my experiences <a style="text-decoration:none; color:black" href="https://drive.google.com/file/d/1hew96F3IhNReyoINFpv54d7w5JPTi77N/view?usp=sharing](https://drive.google.com/file/d/1hew96F3IhNReyoINFpv54d7w5JPTi77N/view?usp=sharing" target="_blank" >Resume</a>
+- 📄 Know about my experiences <a style="text-decoration:none; color:black;" target="_blank" href="https://drive.google.com/file/d/1hew96F3IhNReyoINFpv54d7w5JPTi77N/view?usp=sharing](https://drive.google.com/file/d/1hew96F3IhNReyoINFpv54d7w5JPTi77N/view?usp=sharing">Resume</a>
 
 - ⚡ Fun fact **I think I am funny**
 
